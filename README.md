@@ -1,4 +1,4 @@
-- Hi, I'm @SalihSay
+- 👋 Hi, I'm @SalihSay
 - 👀 I'm interested in android development and .NET Framework
 - 🌱 I’m currently learning Kotlin and C#
 - 👯 I’m looking to collaborate on android developer
