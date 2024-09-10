@@ -1,8 +1,8 @@
--## Hi, I am @SalihSay
--👀I am interested in android development
--🌱 I’m currently learning kotlin
--👯 I’m looking to collaborate on android developer
--📫 How to reach me >> salihsayy@gmail.com
+- Hi, I'm @SalihSay
+- 👀 I'm interested in android development
+- 🌱 I’m currently learning kotlin
+- 👯 I’m looking to collaborate on android developer
+- 📫 How to reach me >> salihsayy@gmail.com
 
 <!--
 **SalihSay/SalihSay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
