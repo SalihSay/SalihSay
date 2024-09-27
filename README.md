@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm @SalihSay</h1>
 <h3 align="center">I'm interested in android development and .NET Framework</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=salihsay&label=Profile%20views&color=0e75b6&style=flat" alt="salihsay" /> </p>
+
 
 - 🌱 I’m currently learning **Kotlin and C#**
 
@@ -20,3 +20,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salihsay&show_icons=true&locale=en" alt="salihsay" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salihsay&" alt="salihsay" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=salihsay&label=Profile%20views&color=0e75b6&style=flat" alt="salihsay" /> </p>
