@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm @SalihSay</h1>
-<h3 align="center">I'm interested in android development and .NET Framework</h3>
+<h3 align="center">I'm interested in Android Development</h3>
 
 
 
-- 🌱 I’m currently learning **Kotlin and C#**
+- 🌱 I’m currently learning **Kotlin**
 
 - 📫 How to reach me **>> salihsayy@gmail.com**
 
